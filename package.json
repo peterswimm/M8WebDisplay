@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "imagemin-cli": "^6.0.0",
+    "imagemin-cli": "^8.0.0",
     "juice": "^7.0.0",
-    "local-web-server": "^4.2.1",
-    "rollup": "^2.38.1",
+    "local-web-server": "^5.4.0",
+    "rollup": "^2.79.2",
     "sass": "^1.32.5",
-    "terser": "^5.5.1"
+    "terser": "^5.14.2"
   }
 }
